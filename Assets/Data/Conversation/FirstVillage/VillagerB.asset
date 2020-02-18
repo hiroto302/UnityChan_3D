@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c09119f24bdb54b2ea60da7f149455cc, type: 3}
+  m_Name: VillagerB
+  m_EditorClassIdentifier: 
+  message: "oioi\n\u30AA\u30E9\u6751\u4ED6\u4EBAB\u3060\u3088\uFF01\n<>\n\u65B0\u5165\u308A\u304B...\u3088\u308D\u3057\u304F\u306A"
